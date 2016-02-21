@@ -5,7 +5,7 @@ DSL versions of the English-Swedish & Swedish-English People's dictionary availa
 
 ### REQUIREMENTS
 
-You need to have already installed a dictionary application which is compatible with the DSL format, such as: 
+You need to have already installed a dictionary application compatible with the DSL format, such as: 
 * Goldendict for Windows, Mac, Linux or Android  (http://goldendict.org/)
 * Dictionary Universal for iOS (http://dictionary-universal.appspot.com/dictionary/en/)
 * Alpus (formerly Fora) for Windows, Mac, Linux, Android, iOS (http://ng-comp.com/alpus/index.html)
