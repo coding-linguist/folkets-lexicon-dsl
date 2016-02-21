@@ -1,46 +1,26 @@
-# folkets-lexicon-dsl
+# folkets-lexikon-dsl
 ## DESCRIPTION
 
-DSL version of the English-Swedish & Swedish-English People's dictionary available at http://folkets-lexikon.csc.kth.se/
+DSL versions of the English-Swedish & Swedish-English People's dictionary available at http://folkets-lexikon.csc.kth.se/
 
-## Setup
+### REQUIREMENTS
 
-### What [modulename] affects **OPTIONAL**
+You need to have already installed a dictionary application which is compatible with the DSL format, such as: 
+* Goldendict for Windows, Mac, Linux or Android  (http://goldendict.org/)
+* Dictionary Universal for iOS (http://dictionary-universal.appspot.com/dictionary/en/)
+* Alpus (formerly Fora) for Windows, Mac, Linux, Android, iOS (http://ng-comp.com/alpus/index.html)
 
-If it's obvious what your module touches, you can skip this section. For example, folks can probably figure out that your mysql_instance module affects their MySQL instances.
+### INSTALLATION
 
-If there's more that they should know about, though, this is the place to mention:
+Download SV_EN_Folkets.zip and/or EN_SV_Folkets.zip from https://github.com/coding-linguist/folkets-lexikon-dsl/releases and install them according to your chosen application's instructions.
 
-* Files, packages, services, or operations that the module will alter, impact, or execute.
-* Dependencies that your module automatically installs.
-* Warnings or other important notices.
+In general, for Goldendict you need to decompress the .zip file and copy it to your dictionaries folder (that's the GoldenDict folder on Android). For Dictionary Universal and Alpus you'll need to import the .zip file itself.
 
-### Setup Requirements **OPTIONAL**
+### TERMS OF USE
+This work, a DSL version of the "Folkets lexikon", is a derivative of the work available at http://folkets-lexikon.csc.kth.se/ under CC-BY-SA-2.5 (http://creativecommons.org/licenses/by-sa/2.5/). For attribution information of the source material see: http://folkets-lexikon.csc.kth.se/folkets/om.en.html. This DSL version is licensed under CC-BY-SA-2.5 by Jennie Petoumenou.
 
-If your module requires anything extra before setting up (pluginsync enabled, another module, etc.), mention it here. 
-	
-If your most recent release breaks compatibility or requires particular steps for upgrading, you might want to include an additional "Upgrading" section here.
+### VERSION
+Source file retrieved on 21/02/2016
 
-### Beginning with [modulename]	
-
-The very basic steps needed for a user to get the module up and running. This can include setup steps, if necessary, or it can be an example of the most basic use of the module.
-
-## Usage
-
-This section is where you describe how to customize, configure, and do the fancy stuff with your module here. It's especially helpful if you include usage examples and code samples for doing things with your module.
-
-## Reference
-
-Here, include a complete list of your module's classes, types, providers, facts, along with the parameters for each. Users refer to this section (thus the name "Reference") to find specific details; most users don't read it per se.
-
-## Limitations
-
-This is where you list OS compatibility, version compatibility, etc. If there are Known Issues, you might want to include them under their own heading here.
-
-## Development
-
-Since your module is awesome, other users will want to play with it. Let them know what the ground rules for contributing are.
-
-## Release Notes/Contributors/Etc. **Optional**
-
-If you aren't using changelog, put your release notes here (though you should consider using changelog). You can also add any additional sections you feel are necessary or important to include here. Please use the `## ` header. 
+### CONTACT
+thecodinglinguist@gmail.com
