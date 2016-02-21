@@ -18,14 +18,14 @@ In general, for Goldendict you need to decompress the .zip file and copy it to y
 
 ### CONTRIBUTE
 
-The perl commands used for generating the dictionaries can be found inside the dev branch. They are no longer maintained, but feel free to use them as a reference.
+The perl commands used to generate the dictionaries can be found inside folkets-sv-en-script and folkets-en-sv-script. They are provided as a reference. They are no longer maintained, and do not constitute working scripts.
 
 ### TERMS OF USE
 The DSL version of the "Folkets lexikon", is a derivative of the work available at http://folkets-lexikon.csc.kth.se/ under CC-BY-SA-2.5 (http://creativecommons.org/licenses/by-sa/2.5/). For attribution information of the source material see: http://folkets-lexikon.csc.kth.se/folkets/om.en.html. 
 
 The DSL version is licensed under CC-BY-SA-2.5 by Jennie Petoumenou. 
 
-The code used for generation of the DSL version is distributed under the terms of the GNU General Public License v3.0 or later.
+The code used to generate the DSL version is distributed under the terms of the GNU General Public License v3.0 or later.
 
 ### VERSION
 Source file retrieved on 21/02/2016
