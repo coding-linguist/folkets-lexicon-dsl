@@ -16,6 +16,10 @@ Download SV_EN_Folkets.zip and/or EN_SV_Folkets.zip from https://github.com/codi
 
 In general, for Goldendict you need to decompress the .zip file and copy it to your dictionaries folder (that's the GoldenDict folder on Android). For Dictionary Universal and Alpus you'll need to import the .zip file itself.
 
+### CONTRIBUTE
+
+The perl commands used for generating the dictionaries can be found inside the dev branch. They are no longer maintained, but feel free to use them as a reference.
+
 ### TERMS OF USE
 This work, a DSL version of the "Folkets lexikon", is a derivative of the work available at http://folkets-lexikon.csc.kth.se/ under CC-BY-SA-2.5 (http://creativecommons.org/licenses/by-sa/2.5/). For attribution information of the source material see: http://folkets-lexikon.csc.kth.se/folkets/om.en.html. This DSL version is licensed under CC-BY-SA-2.5 by Jennie Petoumenou.
 
